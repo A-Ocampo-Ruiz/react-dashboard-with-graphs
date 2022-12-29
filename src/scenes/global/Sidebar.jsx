@@ -113,7 +113,7 @@ const Sidebar = () => {
                   A. Ocampo
                 </Typography>
                 <Typography variant="h5" color={colors.greenAccent[500]}>
-                  Tech Lead
+                  Software Developer
                 </Typography>
               </Box>
             </Box>
