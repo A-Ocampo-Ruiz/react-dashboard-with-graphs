@@ -98,7 +98,7 @@ const Sidebar = () => {
                   alt="profile-user"
                   width="100px"
                   height="100px"
-                  src={`src/assets/programmer.jpg`}
+                  src={`src/assets/admin.jpg`}
                   style={{ cursor: "pointer", borderRadius: "50%" }}
                 />
               </Box>
@@ -113,7 +113,7 @@ const Sidebar = () => {
                   A. Ocampo
                 </Typography>
                 <Typography variant="h5" color={colors.greenAccent[500]}>
-                  Software Developer
+                  Admin
                 </Typography>
               </Box>
             </Box>
